@@ -1,6 +1,6 @@
 # 資安學習資源整理
 
-## web security
+# web security
 
 - [Kaibro 大神的 Web CTF cheat sheet](https://github.com/w181496/Web-CTF-Cheatsheet)
 
@@ -23,16 +23,16 @@
 - [Xtutlab 駭客教學實驗室](https://xtutlab.blogspot.com/2019/?m=1)
 
 
-### web security practice
+# web security practice
 
-#### XSS
+## XSS
 - [xss-game](https://xss-game.appspot.com/)
 
 - [prompt to win](http://prompt.ml/0)
 
 - [xss-quiz](https://xss-quiz.int21h.jp/)
 
-## 滲透測試
+# 滲透測試
 
 - [簡體中文的kali linux滲透測試指導](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/31.html)
 
