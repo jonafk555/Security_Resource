@@ -20,7 +20,24 @@
 
 [BambooFox](https://bamboofox.cs.nctu.edu.tw/)
 
+[Xtutlab 駭客教學實驗室](https://xtutlab.blogspot.com/2019/?m=1)
+
+
 ### web security practice
 
 #### XSS
 [xss-game](https://xss-game.appspot.com/)
+
+[prompt to win](http://prompt.ml/0)
+
+[xss-quiz](https://xss-quiz.int21h.jp/)
+
+## 滲透測試
+
+[簡體中文的kali linux滲透測試指導](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/31.html)
+[Sectools](https://sectools.tw/)
+- 偵察情蒐
+[Python .DS_Store parser](https://github.com/gehaxelt/Python-dsstore)
+
+- 暴破工具
+[Seclist](https://github.com/danielmiessler/SecLists)
