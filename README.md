@@ -35,7 +35,9 @@
 ## 滲透測試
 
 [簡體中文的kali linux滲透測試指導](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/31.html)
+
 [Sectools](https://sectools.tw/)
+
 - 偵察情蒐
 [Python .DS_Store parser](https://github.com/gehaxelt/Python-dsstore)
 
