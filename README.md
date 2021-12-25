@@ -1,5 +1,7 @@
 # 資安學習資源整理
 
+# [中文集大成](https://gotyour.pw/resources.html)
+
 # web security
 
 - [Kaibro 大神的 Web CTF cheat sheet](https://github.com/w181496/Web-CTF-Cheatsheet)
