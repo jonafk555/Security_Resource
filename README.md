@@ -7,6 +7,8 @@
 - [Web Attack Cheat Sheet](https://github.com/riramar/Web-Attack-Cheat-Sheet)
 - [中國網頁安全整理](https://github.com/CHYbeta/Web-Security-Learning)
 - [不錯的簡體中文 Web 筆記](https://websec.readthedocs.io/zh/latest/index.html)
+- [資訊安全大補帖](https://ithelp.ithome.com.tw/users/20108446/ironman/1980)
+- [HITCON Knowledge Base](https://kb.hitcon.org/)
 - [Web 安全大統整](https://github.com/qazbnm456/awesome-web-security)
 - [PortSwigger](https://portswigger.net/web-security)
 - [websec.ca](https://websec.ca/) 
@@ -36,13 +38,18 @@
 
 # 靶機
 - [w3af](http://w3af.org/)
+- [bwapp](https://www.vulnhub.com/entry/bwapp-bee-box-v16,53/)
 - 
 # 滲透測試
 - [pentesterlab](https://pentesterlab.com/)
 - [簡體中文的kali linux滲透測試指導](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/31.html)
 - [Sectools](https://sectools.tw/)
+- [exploit-db](https://www.exploit-db.com/google-hacking-database)
+- [hack543中文學習資源](https://hack543.com/)
 - 偵察情蒐
   - [Python .DS_Store parser](https://github.com/gehaxelt/Python-dsstore)
-
+  - [Geolocation OSINT Tool:geocreepy](https://www.geocreepy.com/)
+  - [Scanners-Box簡體中文](https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md)
+     - [Scanners-Box](https://github.com/We5ter/Scanners-Box)
 - 暴破工具
   - [Seclist](https://github.com/danielmiessler/SecLists)
