@@ -39,7 +39,6 @@ https://isip.moe.edu.tw/
 - [PortSwigger](https://portswigger.net/web-security)
 - [websec.ca](https://websec.ca/) 
 - [hacksplaining](https://www.hacksplaining.com/)
-- [BambooFox](https://bamboofox.cs.nctu.edu.tw/)
 - [SeedSecurityLabs](https://seedsecuritylabs.org/Labs_16.04/Web/)
 - [Xtutlab 駭客教學實驗室](https://xtutlab.blogspot.com/2019/?m=1)
 
