@@ -1,6 +1,6 @@
 # 資安學習資源整理
 
-# [中文集大成](https://gotyour.pw/resources.html)
+## [中文集大成](https://gotyour.pw/resources.html)
 
 # web security
 
@@ -23,31 +23,40 @@
 
 ## 主題教學
 
-- XSS
+### XSS
   - [Intigriti’s 0521 XSS 挑戰解法：限定字元組合程式碼](https://hulitw.medium.com/intigritis-0521-xss-challenge-writeup-b859a65acc48)
   - [XSS (Cross-Site Scripting) 跨站腳本攻擊簡介和實作](https://blog.davidh83110.com/%E8%B3%87%E8%A8%8A%E5%AE%89%E5%85%A8/%E9%A7%AD%E5%AE%A2%E6%8A%80%E8%A1%93/owasp%20top10/2016/10/10/xss.html)
   - 
-- SQL injection
+### SQL injection
   - [sql_injection](https://websec.ca/kb/sql_injection)
   - [SQL injection繞過方法](https://securityonline.info/sql-injection-9-ways-bypass-web-application-firewall/?utm_source=dlvr.it&utm_medium=twitter)
 
-# web security practice
+# web security LAB
 
-## XSS
+### XSS
 - [xss-game](https://xss-game.appspot.com/)
 - [prompt to win](http://prompt.ml/0)
 - [xss-quiz](https://xss-quiz.int21h.jp/)
 
-# 靶機
+### 靶機
 - [w3af](http://w3af.org/)
 - [bwapp](https://www.vulnhub.com/entry/bwapp-bee-box-v16,53/)
-- 
+
+
 # 滲透測試
+
+## 學習
 - [pentesterlab](https://pentesterlab.com/)
 - [簡體中文的kali linux滲透測試指導](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/31.html)
 - [Sectools](https://sectools.tw/)
 - [exploit-db](https://www.exploit-db.com/google-hacking-database)
 - [hack543中文學習資源](https://hack543.com/)
+
+## PT LAB
+- [HACK THE BOX](https://www.hackthebox.com/)
+- [Try hack me](https://tryhackme.com/)
+- [Root me](https://www.root-me.org/?lang=en)
+
 - 偵察情蒐
   - [Python .DS_Store parser](https://github.com/gehaxelt/Python-dsstore)
   - [Geolocation OSINT Tool:geocreepy](https://www.geocreepy.com/)
