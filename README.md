@@ -2,7 +2,31 @@
 
 ## [中文集大成](https://gotyour.pw/resources.html)
 
-# web security
+# 教育部資安人才培育計畫
+https://isip.moe.edu.tw/
+
+- [AIS3](https://www.facebook.com/AIS3tw)
+- [高中職生資安研習營](https://www.facebook.com/%E9%AB%98%E4%B8%AD%E8%81%B7%E7%94%9F%E8%B3%87%E5%AE%89%E7%A0%94%E7%BF%92%E7%87%9F-455550404836569/)(大學生也能參加，只是沒有證書。CTF及基礎課程導向)
+- [臺灣好厲駭](https://www.facebook.com/TAIWANHolyHigh-123028255762638)(高階資安實務訓練課程)
+
+# 資安社群、社團
+- [HITCON](https://hitcon.org/2021/)
+- [HITCONGIRLS](https://www.facebook.com/HITCONGIRLS)
+- [陽交大 Bamboo Fox](https://www.facebook.com/NCTUCSC)
+   - [官網](https://bamboofox.github.io/?fbclid=IwAR3OzsSTPdJTHb47jb95EF-3tEZdfqnkorrACNtQEnlyUI0JPGvbQ2OqyM0)
+   - [YT](https://l.facebook.com/l.php?u=https%3A%2F%2Fwww.youtube.com%2Fc%2FBambooFox%2F%3Ffbclid%3DIwAR0bf7x-iRIf9Z_Yu_68hqISLN1cyr7Q_lKzoZwawO5xolZKLNpDd3KDTLg&h=AT05iEWkPmv1DervQvC9mmWY2yNGsa9T4kSaHbtYMujEKGcCPCvD2zZFGnbaoMz9lHJdxJNTWEzai8z5JmGGuFYGBjPe2BdjtJ2wqZsA68k3MMOu6eXLvuRhRV8mGBGXgnWerw)
+- [臺大 BALSN](https://balsn.tw/)
+- [中央 NctfU](https://www.facebook.com/nctfu)
+- [逢甲黑客社](https://www.facebook.com/HackerSir.tw)
+    - [官網](https://l.facebook.com/l.php?u=https%3A%2F%2Fhackersir.org%2F%3Ffbclid%3DIwAR35dFzqzdlR6QWGJCX5WzD97tG8a7stqTgUIPPZrKd4ZFZdig66eZroVyk&h=AT05iEWkPmv1DervQvC9mmWY2yNGsa9T4kSaHbtYMujEKGcCPCvD2zZFGnbaoMz9lHJdxJNTWEzai8z5JmGGuFYGBjPe2BdjtJ2wqZsA68k3MMOu6eXLvuRhRV8mGBGXgnWerw)
+- [臺科大資安社](https://www.facebook.com/ntust.hacking/)
+- [臺中科大 資研社](https://www.facebook.com/NTCUSTIC/)
+- [東海 駭客社](https://www.facebook.com/%E6%9D%B1%E6%B5%B7%E9%A7%AD%E5%AE%A2%E7%A4%BE-Hackers-in-Tunghai-115250553936475)
+- [中山 資安社](https://www.facebook.com/nsysuisc/)
+- [UCCU](https://www.facebook.com/UCCU.Hacker/)
+- [TDOHacker - TDOH](https://www.facebook.com/tdohacker)
+
+# Web Security
 
 - [Kaibro 大神的 Web CTF cheat sheet](https://github.com/w181496/Web-CTF-Cheatsheet)
 - [splitline 大神的 Web CTF課程資源](https://github.com/splitline/How-to-Hack-Websites)
@@ -49,7 +73,6 @@
 - [pentesterlab](https://pentesterlab.com/)
 - [簡體中文的kali linux滲透測試指導](https://wizardforcel.gitbooks.io/daxueba-kali-linux-tutorial/content/31.html)
 - [Sectools](https://sectools.tw/)
-- [exploit-db](https://www.exploit-db.com/google-hacking-database)
 - [hack543中文學習資源](https://hack543.com/)
 
 ## PT LAB
@@ -59,6 +82,7 @@
 
 - 偵察情蒐
   - [Python .DS_Store parser](https://github.com/gehaxelt/Python-dsstore)
+  - [exploit-db](https://www.exploit-db.com/google-hacking-database)
   - [Geolocation OSINT Tool:geocreepy](https://www.geocreepy.com/)
   - [Scanners-Box簡體中文](https://github.com/We5ter/Scanners-Box/blob/master/README_CN.md)
      - [Scanners-Box](https://github.com/We5ter/Scanners-Box)
