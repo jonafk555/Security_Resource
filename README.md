@@ -26,6 +26,8 @@ https://isip.moe.edu.tw/
 - [UCCU](https://www.facebook.com/UCCU.Hacker/)
 - [TDOHacker - TDOH](https://www.facebook.com/tdohacker)
 
+# blog
+https://tech-blog.cymetrics.io/
 # Web Security
 
 - [Kaibro 大神的 Web CTF cheat sheet](https://github.com/w181496/Web-CTF-Cheatsheet)
